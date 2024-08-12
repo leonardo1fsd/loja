@@ -1,0 +1,43 @@
+
+
+
+.faixa-preta {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+#faixa-preta * {
+    background-color: black; /* Garante que os elementos dentro da faixa preta também sejam pretos */
+  }
+
+  
+.img {
+align-items: center;
+
+
+}
+.faixa-preta{
+    
+}
+.introducao {
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Peças {
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.europa { font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conclusao {
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
